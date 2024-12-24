@@ -51,7 +51,7 @@ Before running this project, ensure you have the following installed:
 
 ## Usage
 
-1. Enter the stock symbol (Note: Use `.NS` for NSE (India), `.BS` for BSE, or directly use the ticker for other stocks.) in the input box.
+1. Enter the stock symbol (Note: Use `.NS` for NSE (India), `.BO` for BSE, or directly use the ticker for other stocks.) in the input box.
 2. View historical stock data and predictions in the app.
 3. Analyze the live candlestick chart with buy/sell signals.
 
