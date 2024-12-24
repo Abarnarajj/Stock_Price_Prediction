@@ -51,7 +51,7 @@ Before running this project, ensure you have the following installed:
 
 ## Usage
 
-1. Enter the stock symbol (e.g., `TCS.NS` for TCS, `AAPL` for Apple) in the input box.
+1. Enter the stock symbol (Note: Use `.NS` for NSE (India), `.BS` for BSE, or directly use the ticker for other stocks.) in the input box.
 2. View historical stock data and predictions in the app.
 3. Analyze the live candlestick chart with buy/sell signals.
 
@@ -66,7 +66,10 @@ Before running this project, ensure you have the following installed:
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Stock+Market+Predictor+App)
+![image](https://github.com/user-attachments/assets/801fcd02-8283-4e44-93d9-ee7e77c927bc)
+![image](https://github.com/user-attachments/assets/d93ecc86-f3b1-46e2-a356-eb7376d83264)
+
+
 
 ## Technologies Used
 
