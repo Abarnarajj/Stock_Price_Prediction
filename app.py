@@ -20,9 +20,7 @@ if stock_symbol:
     stock_data = yf.Ticker(stock_symbol)
     try:
         # Fetching historical stock data
-        data = yf.download(stock_symbol, start='2012-01-01', end='2022-12-31')
-        st.subheader('Stock Data')
-        st.write(data)
+        data = yf.download(stock_symbol, start='2012-01-01', end='2024-12-24')
 
         # Data preprocessing for prediction
         data_train = pd.DataFrame(data.Close[0:int(len(data) * 0.80)])
