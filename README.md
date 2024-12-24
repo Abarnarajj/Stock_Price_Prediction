@@ -82,10 +82,6 @@ Before running this project, ensure you have the following installed:
 - **Plotly**: For creating interactive candlestick charts.
 - **NumPy & Pandas**: For data preprocessing and analysis.
 
-## Contributing
-
-Contributions are welcome! If you'd like to enhance this project, please fork the repository and create a pull request.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
@@ -96,10 +92,5 @@ This project is licensed under the [MIT License](LICENSE).
 - [Streamlit Documentation](https://docs.streamlit.io/)
 - [Plotly Documentation](https://plotly.com/python/)
 
-## Contact
 
-For any questions or suggestions, feel free to reach out:
-
-- **Email:** abarnaraj54@gmail.com
-- **GitHub:** [Abarna2004](https://github.com/Abarna2004)
 
