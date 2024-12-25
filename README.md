@@ -1,4 +1,4 @@
-# Stock Market Predictor with Buy/Sell Signals
+# Stock Price Predictor with Buy/Sell Signals
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.x-brightgreen?logo=streamlit&logoColor=white)
@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow?logo=opensourceinitiative&logoColor=white)
 
 ## Overview
-This project is a **Stock Market Predictor** 📈 that uses a pre-trained deep learning model to predict stock prices and provide **buy/sell signals 💹.** It includes the following features:
+This project is a **Stock Price Predictor** 📈 that uses a pre-trained deep learning model to predict stock prices and provide **buy/sell signals 💹.** It includes the following features:
 
 1. Fetches historical stock data using the Yahoo Finance API 📊.
 2. Predicts stock prices using a pre-trained Keras model 🤖.
